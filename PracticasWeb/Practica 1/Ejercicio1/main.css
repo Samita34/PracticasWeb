@@ -1,0 +1,7 @@
+/* Estilos para el elemento */
+#color-change {
+    width: 100vw;
+    height: 100vh;
+    background-color: blue; /* Color inicial */
+    transition: background-color 0.3s ease; /* Transición suave */
+  }
